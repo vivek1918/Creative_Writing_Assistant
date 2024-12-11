@@ -1,0 +1,14 @@
+{
+    "fantasy": [
+        "A [TRAITS] hero who discovers a magical artifact in an ancient forest.",
+        "A mysterious wizard with [TRAITS] powers seeking to restore balance to the realm."
+    ],
+    "sci-fi": [
+        "A [TRAITS] space explorer on a mission to discover new civilizations.",
+        "An artificial intelligence with [TRAITS] characteristics questioning its own existence."
+    ],
+    "mystery": [
+        "A [TRAITS] detective solving an impossible crime in a small town.",
+        "A journalist with [TRAITS] instincts uncovering a dangerous conspiracy."
+    ]
+}

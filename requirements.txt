@@ -1,0 +1,7 @@
+transformers==4.35.2
+torch==2.2.0# Run the main interactive script
+python run.py
+sentencepiece==0.1.99
+accelerate==0.24.1
+json5==0.9.14
+python-dotenv==1.0.0

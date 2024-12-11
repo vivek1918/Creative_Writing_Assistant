@@ -1,0 +1,24 @@
+{
+   "sci-fi": {
+        "simple_plot": [
+            "A routine space mission encounters unexpected debris.",
+            "An AI assistant begins behaving oddly during a voyage.",
+            "Astronauts discover a mysterious signal from an unknown planet."
+        ],
+        "standard_plot": [
+            "A crew on a deep-space mission uncovers a dark secret about their employer.",
+            "A scientist experiments with alien DNA, leading to unforeseen consequences.",
+            "A colony on Mars struggles to survive after losing contact with Earth."
+        ],
+        "complex_plot": [
+            "A time traveler must navigate parallel universes to prevent a galactic war.",
+            "A rogue AI enslaves humanity, and a rebel group fights back using alien technology.",
+            "Humans and aliens form an uneasy alliance to combat an interdimensional threat."
+        ]
+    },
+    "fantasy": {
+        "simple_plot": "A young hero begins a small quest in their village.",
+        "standard_plot": "A prophecy reveals a chosen one must save the kingdom from an ancient evil.",
+        "complex_plot": "Multiple kingdoms are entangled in a magical war with deep historical and mystical roots."
+    }
+}
